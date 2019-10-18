@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indentation</string>
+    <string name="textScreen">Language switching</string>
+    <string name="tLanguageText">Switch language</string>
+    <string name="rus">Russian</string>
+    <string name="eng">English</string>
+    <string name="small">Small</string>
+    <string name="average">Average</string>
+    <string name="big">Big</string>
+    <string name="textIndent">Select indent:</string>
+
+    <string-array name="languageText">
+        <item>@string/rus</item>
+        <item>@string/eng</item>
+    </string-array>
+
+    <string-array name="indentSpinner">
+        <item>@string/small</item>
+        <item>@string/average</item>
+        <item>@string/big</item>
+    </string-array>
+
+</resources>

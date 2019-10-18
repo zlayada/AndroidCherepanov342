@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Переключение отступов</string>
+    <string name="textScreen">Переключение языков</string>
+    <string name="tLanguageText">Переключить язык</string>
+    <string name="rus">Русский</string>
+    <string name="eng">Английский</string>
+    <string name="small">Маленькие</string>
+    <string name="average">Средние</string>
+    <string name="big">Большие</string>
+    <string name="textIndent">Выберите отступ:</string>
+
+    <string-array name="languageText">
+        <item>@string/rus</item>
+        <item>@string/eng</item>
+    </string-array>
+
+    <string-array name="indentSpinner">
+        <item>@string/small</item>
+        <item>@string/average</item>
+        <item>@string/big</item>
+    </string-array>
+
+</resources>
